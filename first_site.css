@@ -1,0 +1,35 @@
+img {
+		border:5px solid black;
+		border-radius:100%;
+		height:200px;
+	}
+	li {
+		display:inline;
+		padding:0px 20px 0px 10px;
+		color:white;
+		font-weight:bold;
+		font-size:20px;
+		font-family:Helvetica;
+	}
+	ul {
+		text-align:center;
+	}
+	h1 {
+		font-family:Helvetica;
+		color:white;
+	}
+	body {
+		background-position:center;
+		background-image:url("http://image.architonic.com/img_pro2-1/109/5413/BLACK-ART-VULCANO_1_b.jpg");
+	}
+	p {
+		text-align:center;
+		color:white;
+		font-size:20px;
+		margin:.5em 0em .5em 0em;
+		font-family:Helvetica;
+	}
+	body div:nth-child(7) {
+		background-color:rgba(0,100,0,0.5);
+		padding:5px 0px 5px 0px;
+	}
