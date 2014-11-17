@@ -16,7 +16,7 @@ img {
 	}
 	h1 {
 		font-family:Helvetica;
-		color:white;
+		color:red;
 	}
 	body {
 		background-position:center;
@@ -29,7 +29,7 @@ img {
 		margin:.5em 0em .5em 0em;
 		font-family:Helvetica;
 	}
-	body div:nth-child(7) {
+	#links {
 		background-color:rgba(0,100,0,0.5);
 		padding:5px 0px 5px 0px;
 	}
